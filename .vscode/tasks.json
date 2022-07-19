@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "presentation": {
+        "echo": false,
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated",
+        "showReuseMessage": false
+    },
+    "tasks": [
+        {
+            "label": "cool-webradios build",
+            "dependsOn": [
+                "bake"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "runOptions": {
+                "runOn": "default"
+            }
+        },
+        {
+            "label": "bake",
+            "type": "shell",
+            "command": "python ./src/bake.py",
+            "options": {
+                "shell": {
+                    "executable": "powershell.exe",
+                    "args": []
+                }
+            },
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": {
+                "group": "devtools"
+            }
+        }
+    ]
+}
