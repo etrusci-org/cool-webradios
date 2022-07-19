@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0,Itch FM
+https://streaming.radio.co/s264858a04/listen
+#EXTINF:0,Lounge Radio
+http://nl1.lounge-radio.com
+#EXTINF:0,Minimal Mix
+http://148.251.43.231:8750
+#EXTINF:0,NTS 1
+https://stream-relay-geo.ntslive.net/stream
+#EXTINF:0,NTS 2
+https://stream-relay-geo.ntslive.net/stream2
+#EXTINF:0,Proton Radio
+http://shoutcast.protonradio.com:80
+#EXTINF:0,Radio Dark Tunnel
+https://s2.ssl-stream.com/radio/8360/rdt
+#EXTINF:0,SomaFM: 7soul
+https://ice6.somafm.com/7soul-128-mp3
+#EXTINF:0,SomaFM: beatblender
+https://ice4.somafm.com/beatblender-128-mp3
+#EXTINF:0,SomaFM: bootliquor
+https://ice6.somafm.com/bootliquor-320-mp3
+#EXTINF:0,SomaFM: brfm
+https://ice6.somafm.com/brfm-128-mp3
+#EXTINF:0,SomaFM: cliqhop
+https://ice6.somafm.com/cliqhop-256-mp3
+#EXTINF:0,SomaFM: covers
+https://ice6.somafm.com/covers-128-mp3
+#EXTINF:0,SomaFM: darkzone
+https://ice6.somafm.com/darkzone-256-mp3
+#EXTINF:0,SomaFM: deepspaceone
+https://ice4.somafm.com/deepspaceone-128-mp3
+#EXTINF:0,SomaFM: defcon
+https://ice4.somafm.com/defcon-256-mp3
+#EXTINF:0,SomaFM: digitalis
+https://ice6.somafm.com/digitalis-128-mp3
+#EXTINF:0,SomaFM: dronezone
+https://ice4.somafm.com/dronezone-256-mp3
+#EXTINF:0,SomaFM: dubstep
+https://ice6.somafm.com/dubstep-256-mp3
+#EXTINF:0,SomaFM: fluid
+https://ice6.somafm.com/fluid-128-mp3
+#EXTINF:0,SomaFM: folkfwd
+https://ice4.somafm.com/folkfwd-128-mp3
+#EXTINF:0,SomaFM: groovesalad
+https://ice6.somafm.com/groovesalad-256-mp3
+#EXTINF:0,SomaFM: gsclassic
+https://ice4.somafm.com/gsclassic-128-mp3
+#EXTINF:0,SomaFM: illstreet
+https://ice6.somafm.com/illstreet-128-mp3
+#EXTINF:0,SomaFM: indiepop
+https://ice4.somafm.com/indiepop-128-mp3
+#EXTINF:0,SomaFM: live
+https://ice6.somafm.com/live-128-mp3
+#EXTINF:0,SomaFM: lush
+https://ice4.somafm.com/lush-128-mp3
+#EXTINF:0,SomaFM: metal
+https://ice6.somafm.com/metal-128-mp3
+#EXTINF:0,SomaFM: missioncontrol
+https://ice6.somafm.com/missioncontrol-128-mp3
+#EXTINF:0,SomaFM: n5md
+https://ice6.somafm.com/n5md-128-mp3
+#EXTINF:0,SomaFM: poptron
+https://ice6.somafm.com/poptron-128-mp3
+#EXTINF:0,SomaFM: reggae
+https://ice6.somafm.com/reggae-256-mp3
+#EXTINF:0,SomaFM: scanner
+https://ice6.somafm.com/scanner-128-mp3
+#EXTINF:0,SomaFM: secretagent
+https://ice4.somafm.com/secretagent-128-mp3
+#EXTINF:0,SomaFM: seventies
+https://ice4.somafm.com/seventies-320-mp3
+#EXTINF:0,SomaFM: sf1033
+https://ice6.somafm.com/sf1033-128-mp3
+#EXTINF:0,SomaFM: sonicuniverse
+https://ice6.somafm.com/sonicuniverse-256-mp3
+#EXTINF:0,SomaFM: spacestation
+https://ice4.somafm.com/spacestation-128-mp3
+#EXTINF:0,SomaFM: specials
+https://ice6.somafm.com/specials-128-mp3
+#EXTINF:0,SomaFM: suburbsofgoa
+https://ice6.somafm.com/suburbsofgoa-128-mp3
+#EXTINF:0,SomaFM: synphaera
+https://ice4.somafm.com/synphaera-256-mp3
+#EXTINF:0,SomaFM: thetrip
+https://ice6.somafm.com/thetrip-128-mp3
+#EXTINF:0,SomaFM: thistle
+https://ice6.somafm.com/thistle-128-mp3
+#EXTINF:0,SomaFM: u80s
+https://ice4.somafm.com/u80s-256-mp3
+#EXTINF:0,SomaFM: vaporwaves
+https://ice6.somafm.com/vaporwaves-128-mp3
