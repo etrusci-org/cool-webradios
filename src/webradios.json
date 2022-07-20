@@ -43,5 +43,7 @@
     { "name": "SomaFM: The Trip", "about": "Progressive house / trance. Tip top tunes.", "websiteURL": "https://somafm.com", "listenURL": "https://ice6.somafm.com/thetrip-128-mp3" },
     { "name": "SomaFM: ThistleRadio", "about": "Exploring music from Celtic roots and branches", "websiteURL": "https://somafm.com", "listenURL": "https://ice6.somafm.com/thistle-128-mp3" },
     { "name": "SomaFM: Underground 80s", "about": "Early 80s UK Synthpop and a bit of New Wave.", "websiteURL": "https://somafm.com", "listenURL": "https://ice4.somafm.com/u80s-256-mp3" },
-    { "name": "SomaFM: Vaporwaves", "about": "All Vaporwave. All the time.", "websiteURL": "https://somafm.com", "listenURL": "https://ice6.somafm.com/vaporwaves-128-mp3" }
+    { "name": "SomaFM: Vaporwaves", "about": "All Vaporwave. All the time.", "websiteURL": "https://somafm.com", "listenURL": "https://ice6.somafm.com/vaporwaves-128-mp3" },
+    { "name": "Public Domain Radio: Classical", "about": "Mixed Classical music, Chamber music and Symphonies.", "websiteURL": "http://publicdomainradio.org", "listenURL": "http://relay.publicdomainradio.org:80/classical.mp3" },
+    { "name": "Public Domain Radio: Jazz", "about": "Mixed Jazz, Ragtime and Swing.", "websiteURL": "http://publicdomainradio.org", "listenURL": "http://relay.publicdomainradio.org:80/jazz_swing.mp3" }
 ]
