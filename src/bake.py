@@ -4,7 +4,7 @@ import os
 import json
 
 
-srcFile = os.path.join('src', 'm3u.json')
+srcFile = os.path.join('src', 'stations.json')
 outFileM3U = 'cool-webradios.m3u'
 outFileHTML = 'cool-webradios.html'
 
