@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:0,Itch FM
+#EXTINF:0,Itch FM - Dedicated to Hip Hop. [https://itch.fm]
 https://streaming.radio.co/s264858a04/listen
-#EXTINF:0,Lounge Radio
+#EXTINF:0,Lounge Radio - A light summer-plate consisting of Downtempo and fresh beats of Nujazz - dipped into the warmth of Brazil Electro and finely served with a breath of Ambient. [https://lounge-radio.com]
 http://nl1.lounge-radio.com
-#EXTINF:0,Minimal Mix
+#EXTINF:0,Minimal Mix Radio - Deep Tech House and Minimal Dub Techno mixes 24/7. [https://minimalmix.com]
 http://148.251.43.231:8750
-#EXTINF:0,NTS 1
+#EXTINF:0,NTS 1 - NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers. [https://nts.live]
 https://stream-relay-geo.ntslive.net/stream
-#EXTINF:0,NTS 2
+#EXTINF:0,NTS 2 - NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers. [https://nts.live]
 https://stream-relay-geo.ntslive.net/stream2
-#EXTINF:0,Proton Radio
+#EXTINF:0,Proton Radio - Streaming electronic music. [https://protonradio.com]
 http://shoutcast.protonradio.com:80
-#EXTINF:0,Radio Dark Tunnel
+#EXTINF:0,Radio Dark Tunnel - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
 https://s2.ssl-stream.com/radio/8360/rdt
-#EXTINF:0,SomaFM: 7soul
-https://ice6.somafm.com/7soul-128-mp3
-#EXTINF:0,SomaFM: beatblender
+#EXTINF:0,SomaFM: Beat Blender - A late night blend of Deep House and Downtempo chill. [https://somafm.com]
 https://ice4.somafm.com/beatblender-128-mp3
-#EXTINF:0,SomaFM: bootliquor
-https://ice6.somafm.com/bootliquor-320-mp3
-#EXTINF:0,SomaFM: brfm
+#EXTINF:0,SomaFM: Black Rock FM - From the Playa to the world, for the annual Burning Man festival. [https://somafm.com]
 https://ice6.somafm.com/brfm-128-mp3
-#EXTINF:0,SomaFM: cliqhop
+#EXTINF:0,SomaFM: Boot Liquor - Americana Roots music for Cowhands, Cowpokes and Cowtippers [https://somafm.com]
+https://ice6.somafm.com/bootliquor-320-mp3
+#EXTINF:0,SomaFM: Cliqhop IDM - Blips'n'beeps backed mostly with beats. Intelligent Dance Music. [https://somafm.com]
 https://ice6.somafm.com/cliqhop-256-mp3
-#EXTINF:0,SomaFM: covers
+#EXTINF:0,SomaFM: Covers - Just covers. Songs you know by artists you don't. We've got you covered. [https://somafm.com]
 https://ice6.somafm.com/covers-128-mp3
-#EXTINF:0,SomaFM: darkzone
-https://ice6.somafm.com/darkzone-256-mp3
-#EXTINF:0,SomaFM: deepspaceone
+#EXTINF:0,SomaFM: Deep Space One - Deep ambient electronic, experimental and space music. For inner and outer space exploration. [https://somafm.com]
 https://ice4.somafm.com/deepspaceone-128-mp3
-#EXTINF:0,SomaFM: defcon
+#EXTINF:0,SomaFM: DEF CON Radio - Music for Hacking. The DEF CON Year-Round Channel. [https://somafm.com]
 https://ice4.somafm.com/defcon-256-mp3
-#EXTINF:0,SomaFM: digitalis
+#EXTINF:0,SomaFM: Digitalis - Digitally affected analog rock to calm the agitated heart. [https://somafm.com]
 https://ice6.somafm.com/digitalis-128-mp3
-#EXTINF:0,SomaFM: dronezone
+#EXTINF:0,SomaFM: Drone Zone - Served best chilled, safe with most medications. Atmospheric textures with minimal beats. [https://somafm.com]
 https://ice4.somafm.com/dronezone-256-mp3
-#EXTINF:0,SomaFM: dubstep
+#EXTINF:0,SomaFM: Dub Step Beyond - Dubstep, Dub and Deep Bass. May damage speakers at high volume. [https://somafm.com]
 https://ice6.somafm.com/dubstep-256-mp3
-#EXTINF:0,SomaFM: fluid
+#EXTINF:0,SomaFM: Fluid - Drown in the electronic sound of instrumental hiphop, future soul and liquid trap. [https://somafm.com]
 https://ice6.somafm.com/fluid-128-mp3
-#EXTINF:0,SomaFM: folkfwd
+#EXTINF:0,SomaFM: Folk Forward - Indie Folk, Alt-folk and the occasional folk classics. [https://somafm.com]
 https://ice4.somafm.com/folkfwd-128-mp3
-#EXTINF:0,SomaFM: groovesalad
+#EXTINF:0,SomaFM: Groove Salad - A nicely chilled plate of ambient/downtempo beats and grooves. [https://somafm.com]
 https://ice6.somafm.com/groovesalad-256-mp3
-#EXTINF:0,SomaFM: gsclassic
+#EXTINF:0,SomaFM: Groove Salad Classic - The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves. [https://somafm.com]
 https://ice4.somafm.com/gsclassic-128-mp3
-#EXTINF:0,SomaFM: illstreet
-https://ice6.somafm.com/illstreet-128-mp3
-#EXTINF:0,SomaFM: indiepop
-https://ice4.somafm.com/indiepop-128-mp3
-#EXTINF:0,SomaFM: live
-https://ice6.somafm.com/live-128-mp3
-#EXTINF:0,SomaFM: lush
-https://ice4.somafm.com/lush-128-mp3
-#EXTINF:0,SomaFM: metal
-https://ice6.somafm.com/metal-128-mp3
-#EXTINF:0,SomaFM: missioncontrol
-https://ice6.somafm.com/missioncontrol-128-mp3
-#EXTINF:0,SomaFM: n5md
-https://ice6.somafm.com/n5md-128-mp3
-#EXTINF:0,SomaFM: poptron
-https://ice6.somafm.com/poptron-128-mp3
-#EXTINF:0,SomaFM: reggae
+#EXTINF:0,SomaFM: Heavyweight Reggae - Reggae, Ska, Rocksteady classic and deep tracks. [https://somafm.com]
 https://ice6.somafm.com/reggae-256-mp3
-#EXTINF:0,SomaFM: scanner
-https://ice6.somafm.com/scanner-128-mp3
-#EXTINF:0,SomaFM: secretagent
-https://ice4.somafm.com/secretagent-128-mp3
-#EXTINF:0,SomaFM: seventies
+#EXTINF:0,SomaFM: Illinois Street Lounge - Illinois Street Lounge [https://somafm.com]
+https://ice6.somafm.com/illstreet-128-mp3
+#EXTINF:0,SomaFM: Indie Pop Rocks! - New and classic favorite indie pop tracks. [https://somafm.com]
+https://ice4.somafm.com/indiepop-128-mp3
+#EXTINF:0,SomaFM: Left Coast 70s - Mellow album rock from the Seventies. Yacht not required. [https://somafm.com]
 https://ice4.somafm.com/seventies-320-mp3
-#EXTINF:0,SomaFM: sf1033
+#EXTINF:0,SomaFM: Live - Special Live Events and rebroadcasts of past live events [https://somafm.com]
+https://ice6.somafm.com/live-128-mp3
+#EXTINF:0,SomaFM: Lush - Sensuous and mellow female vocals, many with an electronic influence. [https://somafm.com]
+https://ice4.somafm.com/lush-128-mp3
+#EXTINF:0,SomaFM: Metal Detector - From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. [https://somafm.com]
+https://ice6.somafm.com/metal-128-mp3
+#EXTINF:0,SomaFM: Mission Control - Celebrating NASA and Space Explorers everywhere. [https://somafm.com]
+https://ice6.somafm.com/missioncontrol-128-mp3
+#EXTINF:0,SomaFM: n5MD Radio - Emotional Experiments in Music: Ambient, modern composition, post-rock, & experimental electronic music [https://somafm.com]
+https://ice6.somafm.com/n5md-128-mp3
+#EXTINF:0,SomaFM: PopTron - Electropop and indie dance rock with sparkle and pop. [https://somafm.com]
+https://ice6.somafm.com/poptron-128-mp3
+#EXTINF:0,SomaFM: Secret Agent - The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too! [https://somafm.com]
+https://ice4.somafm.com/secretagent-128-mp3
+#EXTINF:0,SomaFM: Seven Inch Soul - Vintage soul tracks from the original 45 RPM vinyl. [https://somafm.com]
+https://ice6.somafm.com/7soul-128-mp3
+#EXTINF:0,SomaFM: SF 10-33 - Ambient music mixed with the sounds of San Francisco public safety radio traffic. [https://somafm.com]
 https://ice6.somafm.com/sf1033-128-mp3
-#EXTINF:0,SomaFM: sonicuniverse
+#EXTINF:0,SomaFM: SF Police Scanner - San Francisco public safety scanner feed. [https://somafm.com]
+https://ice6.somafm.com/scanner-128-mp3
+#EXTINF:0,SomaFM: Sonic Universe - Transcending the world of jazz with eclectic, avant-garde takes on tradition. [https://somafm.com]
 https://ice6.somafm.com/sonicuniverse-256-mp3
-#EXTINF:0,SomaFM: spacestation
+#EXTINF:0,SomaFM: Space Station Soma - Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica. [https://somafm.com]
 https://ice4.somafm.com/spacestation-128-mp3
-#EXTINF:0,SomaFM: specials
+#EXTINF:0,SomaFM: Specials - Now featuring Tiki Time, Bossa Beyond, Surf Report & More! [https://somafm.com]
 https://ice6.somafm.com/specials-128-mp3
-#EXTINF:0,SomaFM: suburbsofgoa
+#EXTINF:0,SomaFM: Suburbs of Goa - Desi-influenced Asian world beats and beyond. [https://somafm.com]
 https://ice6.somafm.com/suburbsofgoa-128-mp3
-#EXTINF:0,SomaFM: synphaera
+#EXTINF:0,SomaFM: Synphaera Radio - Featuring the music from an independent record label focused on modern electronic ambient and space music. [https://somafm.com]
 https://ice4.somafm.com/synphaera-256-mp3
-#EXTINF:0,SomaFM: thetrip
+#EXTINF:0,SomaFM: The Dark Zone - The darker side of deep ambient. Music for staring into the Abyss. [https://somafm.com]
+https://ice6.somafm.com/darkzone-256-mp3
+#EXTINF:0,SomaFM: The Trip - Progressive house / trance. Tip top tunes. [https://somafm.com]
 https://ice6.somafm.com/thetrip-128-mp3
-#EXTINF:0,SomaFM: thistle
+#EXTINF:0,SomaFM: ThistleRadio - Exploring music from Celtic roots and branches [https://somafm.com]
 https://ice6.somafm.com/thistle-128-mp3
-#EXTINF:0,SomaFM: u80s
+#EXTINF:0,SomaFM: Underground 80s - Early 80s UK Synthpop and a bit of New Wave. [https://somafm.com]
 https://ice4.somafm.com/u80s-256-mp3
-#EXTINF:0,SomaFM: vaporwaves
+#EXTINF:0,SomaFM: Vaporwaves - All Vaporwave. All the time. [https://somafm.com]
 https://ice6.somafm.com/vaporwaves-128-mp3

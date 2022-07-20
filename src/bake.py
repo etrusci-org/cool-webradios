@@ -4,12 +4,16 @@ import os
 import json
 
 
-srcFile = os.path.join('src', 'stations.json')
+srcFile = os.path.join('src', 'webradios.json')
 outFileM3U = 'cool-webradios.m3u'
 outFileHTML = 'cool-webradios.html'
+htmlPageTplFile = os.path.join('src', 'html-page.tpl')
+htmlPageStyleTplFile = os.path.join('src', 'html-page-style.tpl')
+htmlListTplFile = os.path.join('src', 'html-list.tpl')
+htmlListItemTplFile = os.path.join('src', 'html-list-item.tpl')
 
-htmlHeaderTpl = '<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Cool Webradios</title></head><body><h1><a href="https://github.com/etrusci-org/cool-webradios">Cool Webradios</a></h1><ul>\n'
-htmlFooterTpl = '</ul></body></html>'
+
+
 
 def bake():
     with open(srcFile, 'r') as fSrc:
@@ -25,16 +29,30 @@ def bakeM3U(srcData):
         print('writing to {} ...'.format(outFileM3U))
         fOut.write('#EXTM3U\n')
         for v in sorted(srcData, key=lambda v: v['name'].lower()):
-            fOut.write('#EXTINF:0,{name}\n{listenURL}\n'.format(**v))
+            fOut.write('#EXTINF:0,{name} - {about} [{websiteURL}]\n{listenURL}\n'.format(**v))
 
 
 def bakeHTML(srcData):
-    with open(outFileHTML, 'w') as fOut:
-        print('writing to {} ...'.format(outFileHTML))
-        fOut.write(htmlHeaderTpl)
+    with open(outFileHTML, 'w') as fOut, \
+         open(htmlPageTplFile, 'r') as fPageTpl, \
+         open(htmlPageStyleTplFile, 'r') as fPageStyleTpl, \
+         open(htmlListTplFile, 'r') as fListTpl, \
+         open(htmlListItemTplFile, 'r') as fListItemTpl:
+        print('loading template from {} ...'.format(htmlPageTplFile))
+        htmlPageTpl = fPageTpl.read()
+        print('loading template from {} ...'.format(htmlPageStyleTplFile))
+        htmlPageStyleTpl = fPageStyleTpl.read()
+        print('loading template from {} ...'.format(htmlListTplFile))
+        htmlListTpl = fListTpl.read()
+        print('loading template from {} ...'.format(htmlListItemTplFile))
+        htmlListItemTpl = fListItemTpl.read()
+        listItems = ''
         for v in sorted(srcData, key=lambda v: v['name'].lower()):
-            fOut.write('<li><strong>{name}</strong><ul><li>website: <a href="{websiteURL}">{websiteURL}</a></li><li>tune-in: <a href="{listenURL}">{listenURL}</a></li></ul></li>\n'.format(**v))
-        fOut.write(htmlFooterTpl)
+            listItems += htmlListItemTpl.format(**v)
+        htmlList = htmlListTpl.format(listItems=listItems)
+        htmlPage = htmlPageTpl.format(list=htmlList, style=htmlPageStyleTpl)
+        print('writing to {} ...'.format(outFileHTML))
+        fOut.write(htmlPage)
 
 
 
