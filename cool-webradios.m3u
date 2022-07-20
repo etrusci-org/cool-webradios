@@ -11,6 +11,10 @@ https://stream-relay-geo.ntslive.net/stream
 https://stream-relay-geo.ntslive.net/stream2
 #EXTINF:0,Proton Radio - Streaming electronic music. [https://protonradio.com]
 http://shoutcast.protonradio.com:80
+#EXTINF:0,Public Domain Radio: Classical - Mixed Classical music, Chamber music and Symphonies. [http://publicdomainradio.org]
+http://relay.publicdomainradio.org:80/classical.mp3
+#EXTINF:0,Public Domain Radio: Jazz - Mixed Jazz, Ragtime and Swing. [http://publicdomainradio.org]
+http://relay.publicdomainradio.org:80/jazz_swing.mp3
 #EXTINF:0,Radio Dark Tunnel - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
 https://s2.ssl-stream.com/radio/8360/rdt
 #EXTINF:0,SomaFM: Beat Blender - A late night blend of Deep House and Downtempo chill. [https://somafm.com]
