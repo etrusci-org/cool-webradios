@@ -24,13 +24,7 @@
         {
             "label": "bake",
             "type": "shell",
-            "command": "python ./src/bake.py",
-            "options": {
-                "shell": {
-                    "executable": "powershell.exe",
-                    "args": []
-                }
-            },
+            "command": "./src/bake.py",
             "isBackground": true,
             "problemMatcher": [],
             "presentation": {
