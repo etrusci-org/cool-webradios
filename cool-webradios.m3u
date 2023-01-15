@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:0,92.5 Dream FM - The south eastern lifestyle. [http://www.dream925fm.com]
 https://ice31.securenetsystems.net/DREAM925FM
+#EXTINF:0,Deep Radio - Dance radio station. [https://deep.radio]
+https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
+#EXTINF:0,Freeminded FM - Your place to be when you love listening to EDM. [https://freemindedfm.nl]
+http://freemindedfmstream.nl
 #EXTINF:0,Itch FM - Dedicated to Hip Hop. [https://itch.fm]
 https://streaming.radio.co/s264858a04/listen
 #EXTINF:0,KPFA - The first community supported radio station in the USA. [https://kpfa.org]
 https://streams.kpfa.org:8443/kpfa
 #EXTINF:0,Lounge Radio - A light summer-plate consisting of Downtempo and fresh beats of Nujazz - dipped into the warmth of Brazil Electro and finely served with a breath of Ambient. [https://lounge-radio.com]
 http://nl1.lounge-radio.com
+#EXTINF:0,MasterMixer@Work - A concept to support passionated DJ's and give them airplay. [https://www.mastermixersatwork.com]
+https://stream.jammfmradio.com/proxy/mmw320.php
 #EXTINF:0,Minimal Mix Radio - Deep Tech House and Minimal Dub Techno mixes 24/7. [https://minimalmix.com]
 http://148.251.43.231:8750
 #EXTINF:0,NTS 1 - NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers. [https://nts.live]
