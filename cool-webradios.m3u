@@ -3,8 +3,6 @@
 https://ice31.securenetsystems.net/DREAM925FM
 #EXTINF:0,Deep Radio - Dance radio station. [https://deep.radio]
 https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
-#EXTINF:0,Freeminded FM - Your place to be when you love listening to EDM. [https://freemindedfm.nl]
-http://freemindedfmstream.nl
 #EXTINF:0,Itch FM - Dedicated to Hip Hop. [https://itch.fm]
 https://streaming.radio.co/s264858a04/listen
 #EXTINF:0,KPFA - The first community supported radio station in the USA. [https://kpfa.org]
@@ -14,19 +12,21 @@ http://nl1.lounge-radio.com
 #EXTINF:0,MasterMixer@Work - A concept to support passionated DJ's and give them airplay. [https://www.mastermixersatwork.com]
 https://stream.jammfmradio.com/proxy/mmw320.php
 #EXTINF:0,Minimal Mix Radio - Deep Tech House and Minimal Dub Techno mixes 24/7. [https://minimalmix.com]
-http://148.251.43.231:8750
+http://148.251.43.231:8750/media
 #EXTINF:0,NTS 1 - NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers. [https://nts.live]
 https://stream-relay-geo.ntslive.net/stream
 #EXTINF:0,NTS 2 - NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers. [https://nts.live]
 https://stream-relay-geo.ntslive.net/stream2
 #EXTINF:0,Proton Radio - Streaming electronic music. [https://protonradio.com]
-http://shoutcast.protonradio.com:80
+http://shoutcast.protonradio.com:7000/stream
 #EXTINF:0,Public Domain Radio: Classical - Mixed Classical music, Chamber music and Symphonies. [http://publicdomainradio.org]
 http://relay.publicdomainradio.org:80/classical.mp3
 #EXTINF:0,Public Domain Radio: Jazz - Mixed Jazz, Ragtime and Swing. [http://publicdomainradio.org]
 http://relay.publicdomainradio.org:80/jazz_swing.mp3
-#EXTINF:0,Radio Dark Tunnel - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
-https://s2.ssl-stream.com/radio/8360/rdt
+#EXTINF:0,Radio Dark Tunnel 1 - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
+https://s2.ssl-stream.com/listen/radio_dark_tunnel/rdt.mp3
+#EXTINF:0,Radio Dark Tunnel 2 - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
+https://s4.ssl-stream.com/listen/rdt_test_server_2/radio.mp3
 #EXTINF:0,SomaFM: Beat Blender - A late night blend of Deep House and Downtempo chill. [https://somafm.com]
 https://ice4.somafm.com/beatblender-128-mp3
 #EXTINF:0,SomaFM: Black Rock FM - From the Playa to the world, for the annual Burning Man festival. [https://somafm.com]
