@@ -21,6 +21,10 @@ http://shoutcast.protonradio.com:7000/stream
 http://relay.publicdomainradio.org:80/classical.mp3
 #EXTINF:0,Public Domain Radio: Jazz - Mixed Jazz, Ragtime and Swing. [http://publicdomainradio.org]
 http://relay.publicdomainradio.org:80/jazz_swing.mp3
+#EXTINF:0,Radio PARALAX [broadband] - Free music 4 free people. Chiptune- & videogame remixes, demoscene, free music. [https://www.radio-paralax.de]
+http://radio-paralax.de:8000
+#EXTINF:0,Radio PARALAX [mobile] - Free music 4 free people. Chiptune- & videogame remixes, demoscene, free music. [https://www.radio-paralax.de]
+http://radio-paralax.de:8000/stream/2/
 #EXTINF:0,SomaFM: Beat Blender - A late night blend of Deep House and Downtempo chill. [https://somafm.com]
 https://ice4.somafm.com/beatblender-128-mp3
 #EXTINF:0,SomaFM: Black Rock FM - From the Playa to the world, for the annual Burning Man festival. [https://somafm.com]
