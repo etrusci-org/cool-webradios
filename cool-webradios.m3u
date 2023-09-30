@@ -21,10 +21,6 @@ http://shoutcast.protonradio.com:7000/stream
 http://relay.publicdomainradio.org:80/classical.mp3
 #EXTINF:0,Public Domain Radio: Jazz - Mixed Jazz, Ragtime and Swing. [http://publicdomainradio.org]
 http://relay.publicdomainradio.org:80/jazz_swing.mp3
-#EXTINF:0,Radio Dark Tunnel 1 - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
-https://s2.ssl-stream.com/listen/radio_dark_tunnel/rdt.mp3
-#EXTINF:0,Radio Dark Tunnel 2 - Dedicated to all forms of alternative music, new and old sounds. [https://radio-dark-tunnel.net]
-https://s4.ssl-stream.com/listen/rdt_test_server_2/radio.mp3
 #EXTINF:0,SomaFM: Beat Blender - A late night blend of Deep House and Downtempo chill. [https://somafm.com]
 https://ice4.somafm.com/beatblender-128-mp3
 #EXTINF:0,SomaFM: Black Rock FM - From the Playa to the world, for the annual Burning Man festival. [https://somafm.com]
