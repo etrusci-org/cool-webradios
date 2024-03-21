@@ -5,6 +5,8 @@ https://streams.d3ep.com:8008/192
 https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
 #EXTINF:0,Itch FM - Dedicated to Hip Hop. [https://itch.fm]
 https://streaming.radio.co/s264858a04/listen
+#EXTINF:0,Kane FM - Great music that's not often represented on commercial stations. [https://kanefm.com/]
+https://stream.kanefm.com:10375/;html5
 #EXTINF:0,KPFA - The first community supported radio station in the USA. [https://kpfa.org]
 https://streams.kpfa.org:8443/kpfa
 #EXTINF:0,Lounge Radio - A light summer-plate consisting of Downtempo and fresh beats of Nujazz - dipped into the warmth of Brazil Electro and finely served with a breath of Ambient. [https://lounge-radio.com]
