@@ -2,6 +2,7 @@
     { "name": "D3EP", "about": "By serious music lovers for serious music lovers.", "websiteURL": "https://d3ep.com", "listenURL": "https://streams.d3ep.com:8008/192" },
     { "name": "Deep Radio", "about": "Dance radio station.", "websiteURL": "https://deep.radio", "listenURL": "https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac" },
     { "name": "Itch FM", "about": "Dedicated to Hip Hop.", "websiteURL": "https://itch.fm", "listenURL": "https://streaming.radio.co/s264858a04/listen" },
+    { "name": "Kane FM", "about": "Great music that's not often represented on commercial stations.", "websiteURL": "https://kanefm.com/", "listenURL": "https://stream.kanefm.com:10375/;html5" },
     { "name": "KPFA", "about": "The first community supported radio station in the USA.", "websiteURL": "https://kpfa.org", "listenURL": "https://streams.kpfa.org:8443/kpfa" },
     { "name": "Lounge Radio", "about": "A light summer-plate consisting of Downtempo and fresh beats of Nujazz - dipped into the warmth of Brazil Electro and finely served with a breath of Ambient.", "websiteURL": "https://lounge-radio.com", "listenURL": "http://nl1.lounge-radio.com" },
     { "name": "Making Waves Radio", "about": "Exploring field-recording, sound-art, experimental amongst other sounds.", "websiteURL": "https://zeno.fm/radio/making-waves-radio", "listenURL": "https://stream-152.zeno.fm/5dgevfbqyhhvv" },
