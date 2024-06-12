@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,8 Life for Planet Earth - 8 Life - Official radio [https://radio.8vies.fr]
+https://radio.8vies.fr:8443/main.mp3
 #EXTINF:0,D3EP - By serious music lovers for serious music lovers. [https://d3ep.com]
 https://streams.d3ep.com:8008/192
 #EXTINF:0,Deep Radio - Dance radio station. [https://deep.radio]
