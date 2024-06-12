@@ -1,4 +1,5 @@
 [
+    { "name": "8 Life for Planet Earth", "about": "8 Life - Official radio", "websiteURL": "https://radio.8vies.fr", "listenURL": "https://radio.8vies.fr:8443/main.mp3" },
     { "name": "D3EP", "about": "By serious music lovers for serious music lovers.", "websiteURL": "https://d3ep.com", "listenURL": "https://streams.d3ep.com:8008/192" },
     { "name": "Deep Radio", "about": "Dance radio station.", "websiteURL": "https://deep.radio", "listenURL": "https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac" },
     { "name": "Itch FM", "about": "Dedicated to Hip Hop.", "websiteURL": "https://itch.fm", "listenURL": "https://streaming.radio.co/s264858a04/listen" },
