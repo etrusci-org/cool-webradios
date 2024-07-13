@@ -1,0 +1,258 @@
+[
+    {
+        "station": {
+            "name": "8 Life for Planet Earth",
+            "url": "https://radio.8vies.fr"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://radio.8vies.fr:8443/main.mp3"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "D3EP",
+            "url": "https://d3ep.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://streams.d3ep.com:8008/192"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Deep Radio",
+            "url": "https://deep.radio"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Itch FM",
+            "url": "https://itch.fm"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://streaming.radio.co/s264858a04/listen"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Kane FM",
+            "url": "https://kanefm.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://stream.kanefm.com:10375/;html5"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "KPFA",
+            "url": "https://kpfa.org"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://streams.kpfa.org:8443/kpfa"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Lounge Radio",
+            "url": "https://lounge-radio.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "http://nl1.lounge-radio.com"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Making Waves Radio",
+            "url": "https://zeno.fm/radio/making-waves-radio"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://stream-152.zeno.fm/5dgevfbqyhhvv"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "MasterMixer@Work",
+            "url": "https://www.mastermixersatwork.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://stream.jammfmradio.com/proxy/mmw320.php"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Minimal Mix Radio",
+            "url": "https://minimalmix.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "http://148.251.43.231:8750/media"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "NTS",
+            "url": "https://nts.live"
+        },
+        "channel": [
+            {
+                "name": "NTS 1",
+                "url": "https://stream-relay-geo.ntslive.net/stream"
+            },
+            {
+                "name": "NTS 2",
+                "url": "https://stream-relay-geo.ntslive.net/stream2"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Proton Radio",
+            "url": "https://protonradio.com"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "http://shoutcast.protonradio.com:7000/stream"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Public Domain Radio",
+            "url": "http://publicdomainradio.org"
+        },
+        "channel": [
+            {
+                "name": "Classical",
+                "url": "http://relay.publicdomainradio.org:80/classical.mp3"
+            },
+            {
+                "name": "Jazz",
+                "url": "http://relay.publicdomainradio.org:80/jazz_swing.mp3"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Radio PARALAX",
+            "url": "https://www.radio-paralax.de"
+        },
+        "channel": [
+            {
+                "name": "Broadband",
+                "url": "http://radio-paralax.de:8000/stream"
+            },
+            {
+                "name": "Mobile",
+                "url": "http://radio-paralax.de:8000/stream/2/"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "SomaFM",
+            "url": "https://somafm.com"
+        },
+        "channel": [
+            {
+                "name": "Beat Blender",
+                "url": "https://ice4.somafm.com/beatblender-128-mp3"
+            },
+            {
+                "name": "Deep Space One",
+                "url": "https://ice4.somafm.com/deepspaceone-128-mp3"
+            },
+            {
+                "name": "Drone Zone",
+                "url": "https://ice4.somafm.com/dronezone-256-mp3"
+            },
+            {
+                "name": "Groove Salad Classic",
+                "url": "https://ice4.somafm.com/gsclassic-128-mp3"
+            },
+            {
+                "name": "Groove Salad",
+                "url": "https://ice6.somafm.com/groovesalad-256-mp3"
+            },
+            {
+                "name": "Left Coast 70s",
+                "url": "https://ice4.somafm.com/seventies-320-mp3"
+            },
+            {
+                "name": "Mission Control",
+                "url": "https://ice6.somafm.com/missioncontrol-128-mp3"
+            },
+            {
+                "name": "n5MD Radio",
+                "url": "https://ice6.somafm.com/n5md-128-mp3"
+            },
+            {
+                "name": "Secret Agent",
+                "url": "https://ice4.somafm.com/secretagent-128-mp3"
+            },
+            {
+                "name": "Seven Inch Soul",
+                "url": "https://ice6.somafm.com/7soul-128-mp3"
+            },
+            {
+                "name": "SF 10-33",
+                "url": "https://ice6.somafm.com/sf1033-128-mp3"
+            },
+            {
+                "name": "Space Station Soma",
+                "url": "https://ice4.somafm.com/spacestation-128-mp3"
+            },
+            {
+                "name": "The Dark Zone",
+                "url": "https://ice6.somafm.com/darkzone-256-mp3"
+            },
+            {
+                "name": "Vaporwaves",
+                "url": "https://ice6.somafm.com/vaporwaves-128-mp3"
+            }
+        ]
+    },
+    {
+        "station": {
+            "name": "Vintage Obscura",
+            "url": "https://vintageobscura.net"
+        },
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://radio.vintageobscura.net/stream"
+            }
+        ]
+    }
+]
