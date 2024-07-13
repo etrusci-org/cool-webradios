@@ -1,9 +1,7 @@
 [
     {
-        "station": {
-            "name": "8 Life for Planet Earth",
-            "url": "https://radio.8vies.fr"
-        },
+        "name": "8 Life for Planet Earth",
+        "url": "https://radio.8vies.fr",
         "channel": [
             {
                 "name": "main",
@@ -12,10 +10,8 @@
         ]
     },
     {
-        "station": {
-            "name": "D3EP",
-            "url": "https://d3ep.com"
-        },
+        "name": "D3EP",
+        "url": "https://d3ep.com",
         "channel": [
             {
                 "name": "main",
@@ -24,10 +20,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Deep Radio",
-            "url": "https://deep.radio"
-        },
+        "name": "Deep Radio",
+        "url": "https://deep.radio",
         "channel": [
             {
                 "name": "main",
@@ -36,10 +30,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Itch FM",
-            "url": "https://itch.fm"
-        },
+        "name": "Itch FM",
+        "url": "https://itch.fm",
         "channel": [
             {
                 "name": "main",
@@ -48,10 +40,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Kane FM",
-            "url": "https://kanefm.com"
-        },
+        "name": "Kane FM",
+        "url": "https://kanefm.com",
         "channel": [
             {
                 "name": "main",
@@ -60,10 +50,8 @@
         ]
     },
     {
-        "station": {
-            "name": "KPFA",
-            "url": "https://kpfa.org"
-        },
+        "name": "KPFA",
+        "url": "https://kpfa.org",
         "channel": [
             {
                 "name": "main",
@@ -72,10 +60,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Lounge Radio",
-            "url": "https://lounge-radio.com"
-        },
+        "name": "Lounge Radio",
+        "url": "https://lounge-radio.com",
         "channel": [
             {
                 "name": "main",
@@ -84,10 +70,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Making Waves Radio",
-            "url": "https://zeno.fm/radio/making-waves-radio"
-        },
+        "name": "Making Waves Radio",
+        "url": "https://zeno.fm/radio/making-waves-radio",
         "channel": [
             {
                 "name": "main",
@@ -96,10 +80,8 @@
         ]
     },
     {
-        "station": {
-            "name": "MasterMixer@Work",
-            "url": "https://www.mastermixersatwork.com"
-        },
+        "name": "MasterMixer@Work",
+        "url": "https://www.mastermixersatwork.com",
         "channel": [
             {
                 "name": "main",
@@ -108,10 +90,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Minimal Mix Radio",
-            "url": "https://minimalmix.com"
-        },
+        "name": "Minimal Mix Radio",
+        "url": "https://minimalmix.com",
         "channel": [
             {
                 "name": "main",
@@ -120,10 +100,8 @@
         ]
     },
     {
-        "station": {
-            "name": "NTS",
-            "url": "https://nts.live"
-        },
+        "name": "NTS",
+        "url": "https://nts.live",
         "channel": [
             {
                 "name": "NTS 1",
@@ -136,10 +114,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Proton Radio",
-            "url": "https://protonradio.com"
-        },
+        "name": "Proton Radio",
+        "url": "https://protonradio.com",
         "channel": [
             {
                 "name": "main",
@@ -148,10 +124,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Public Domain Radio",
-            "url": "http://publicdomainradio.org"
-        },
+        "name": "Public Domain Radio",
+        "url": "http://publicdomainradio.org",
         "channel": [
             {
                 "name": "Classical",
@@ -164,10 +138,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Radio PARALAX",
-            "url": "https://www.radio-paralax.de"
-        },
+        "name": "Radio PARALAX",
+        "url": "https://www.radio-paralax.de",
         "channel": [
             {
                 "name": "Broadband",
@@ -180,10 +152,8 @@
         ]
     },
     {
-        "station": {
-            "name": "SomaFM",
-            "url": "https://somafm.com"
-        },
+        "name": "SomaFM",
+        "url": "https://somafm.com",
         "channel": [
             {
                 "name": "Beat Blender",
@@ -244,10 +214,8 @@
         ]
     },
     {
-        "station": {
-            "name": "Vintage Obscura",
-            "url": "https://vintageobscura.net"
-        },
+        "name": "Vintage Obscura",
+        "url": "https://vintageobscura.net",
         "channel": [
             {
                 "name": "main",
