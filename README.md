@@ -3,8 +3,8 @@
 Webradios I like.
 
 
-To listen, open **[cool-webradios.m3u](./cool-webradios.m3u)** in a media player.
-To get an overview, open **[cool-webradios.html](./cool-webradios.html)** in a web browser.
+To listen, open **[cool-webradios.m3u](https://etrusci.org/tool/cool-webradios/cool-webradios.m3u)** in a media player.
+To get an overview, open **[cool-webradios.html](https://etrusci.org/tool/cool-webradios/cool-webradios.html)** in a web browser.
 
 
 
