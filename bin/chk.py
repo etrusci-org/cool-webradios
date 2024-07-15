@@ -25,12 +25,12 @@ def check_webradios(src_file: pathlib.Path, log_file: pathlib.Path, playtime: in
     errors: int = 0
     log: list[str] = []
 
-    print('checking station channels ...')
+    print('checking webradio channels ...')
 
     try:
-        for station in source:
-            for channel in station['channel']:
-                print(f"{station['name']} - {channel['name']}")
+        for webradio in source:
+            for channel in webradio['channel']:
+                print(f"{webradio['name']} - {channel['name']}")
                 media: vlc.Media = instance.media_new(channel['url'])
                 player.set_media(media)
                 player.play()
@@ -38,10 +38,10 @@ def check_webradios(src_file: pathlib.Path, log_file: pathlib.Path, playtime: in
                 state: str = str(player.get_state())
                 player.stop()
                 if state.lower() != 'state.playing':
-                    log.append(f"{datetime.datetime.now()} BOO: {station['name']} - {channel['name']} - {channel['url']}")
+                    log.append(f"{datetime.datetime.now()} BOO: {webradio['name']} - {channel['name']} - {channel['url']}")
                     errors += 1
                 else:
-                    log.append(f"{datetime.datetime.now()} OK: {station['name']} - {channel['name']} - {channel['url']}")
+                    log.append(f"{datetime.datetime.now()} OK: {webradio['name']} - {channel['name']} - {channel['url']}")
                 time.sleep(2)
 
     except KeyboardInterrupt:
