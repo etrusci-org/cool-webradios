@@ -1,15 +1,5 @@
 [
     {
-        "name": "8 Life for Planet Earth",
-        "url": "https://radio.8vies.fr",
-        "channel": [
-            {
-                "name": "main",
-                "url": "https://radio.8vies.fr:8443/main.mp3"
-            }
-        ]
-    },
-    {
         "name": "D3EP",
         "url": "https://d3ep.com",
         "channel": [
