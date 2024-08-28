@@ -35,7 +35,7 @@
         "channel": [
             {
                 "name": "main",
-                "url": "https://stream.kanefm.com:10375/;html5"
+                "url": "https://stream.kanefm.com:10375/listen"
             }
         ]
     },
@@ -55,17 +55,21 @@
         "channel": [
             {
                 "name": "main",
-                "url": "http://nl1.lounge-radio.com"
+                "url": "https://nl1.streamhosting.ch/lounge128.mp3"
+            },
+            {
+                "name": "relay",
+                "url": "https://fr1.streamhosting.ch/lounge128.mp3"
             }
         ]
     },
     {
         "name": "Making Waves Radio",
-        "url": "https://zeno.fm/radio/making-waves-radio",
+        "url": "https://linktr.ee/makingwaveshq",
         "channel": [
             {
                 "name": "main",
-                "url": "https://stream-152.zeno.fm/5dgevfbqyhhvv"
+                "url": "https://stream-175.zeno.fm/5dgevfbqyhhvv"
             }
         ]
     },
