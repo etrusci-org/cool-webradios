@@ -6,13 +6,15 @@ https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
 #EXTINF:0,Itch FM : main
 https://streaming.radio.co/s264858a04/listen
 #EXTINF:0,Kane FM : main
-https://stream.kanefm.com:10375/;html5
+https://stream.kanefm.com:10375/listen
 #EXTINF:0,KPFA : main
 https://streams.kpfa.org:8443/kpfa
 #EXTINF:0,Lounge Radio : main
-http://nl1.lounge-radio.com
+https://nl1.streamhosting.ch/lounge128.mp3
+#EXTINF:0,Lounge Radio : relay
+https://fr1.streamhosting.ch/lounge128.mp3
 #EXTINF:0,Making Waves Radio : main
-https://stream-152.zeno.fm/5dgevfbqyhhvv
+https://stream-175.zeno.fm/5dgevfbqyhhvv
 #EXTINF:0,MasterMixer@Work : main
 https://stream.jammfmradio.com/proxy/mmw320.php
 #EXTINF:0,Minimal Mix Radio : main
