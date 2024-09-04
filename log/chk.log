@@ -1,32 +1,32 @@
-2024-08-28 22:48:04.566297 OK: D3EP - main - https://streams.d3ep.com:8008/192
-2024-08-28 22:48:16.567889 OK: Deep Radio - main - https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
-2024-08-28 22:48:28.569449 OK: Itch FM - main - https://streaming.radio.co/s264858a04/listen
-2024-08-28 22:48:40.571004 OK: Kane FM - main - https://stream.kanefm.com:10375/listen
-2024-08-28 22:48:52.572497 OK: KPFA - main - https://streams.kpfa.org:8443/kpfa
-2024-08-28 22:49:04.573931 OK: Lounge Radio - main - https://nl1.streamhosting.ch/lounge128.mp3
-2024-08-28 22:49:16.575521 OK: Lounge Radio - relay - https://nl1.streamhosting.ch/lounge128.mp3
-2024-08-28 22:49:28.576952 OK: Making Waves Radio - main - https://stream-175.zeno.fm/5dgevfbqyhhvv
-2024-08-28 22:49:40.578434 OK: MasterMixer@Work - main - https://stream.jammfmradio.com/proxy/mmw320.php
-2024-08-28 22:49:52.579313 OK: Minimal Mix Radio - main - http://148.251.43.231:8750/media
-2024-08-28 22:50:04.580834 OK: NTS - NTS 1 - https://stream-relay-geo.ntslive.net/stream
-2024-08-28 22:50:16.582340 OK: NTS - NTS 2 - https://stream-relay-geo.ntslive.net/stream2
-2024-08-28 22:50:28.583531 OK: Proton Radio - main - http://shoutcast.protonradio.com:7000/stream
-2024-08-28 22:50:40.584459 OK: Public Domain Radio - Classical - http://relay.publicdomainradio.org:80/classical.mp3
-2024-08-28 22:50:52.585407 OK: Public Domain Radio - Jazz - http://relay.publicdomainradio.org:80/jazz_swing.mp3
-2024-08-28 22:51:04.587162 OK: Radio PARALAX - Broadband - http://radio-paralax.de:8000/stream
-2024-08-28 22:51:16.588170 OK: Radio PARALAX - Mobile - http://radio-paralax.de:8000/stream/2/
-2024-08-28 22:51:28.589578 OK: SomaFM - Beat Blender - https://ice4.somafm.com/beatblender-128-mp3
-2024-08-28 22:51:40.591141 OK: SomaFM - Deep Space One - https://ice4.somafm.com/deepspaceone-128-mp3
-2024-08-28 22:51:52.592842 OK: SomaFM - Drone Zone - https://ice4.somafm.com/dronezone-256-mp3
-2024-08-28 22:52:04.594332 OK: SomaFM - Groove Salad Classic - https://ice4.somafm.com/gsclassic-128-mp3
-2024-08-28 22:52:16.595816 OK: SomaFM - Groove Salad - https://ice6.somafm.com/groovesalad-256-mp3
-2024-08-28 22:52:28.597141 OK: SomaFM - Left Coast 70s - https://ice4.somafm.com/seventies-320-mp3
-2024-08-28 22:52:40.598715 OK: SomaFM - Mission Control - https://ice6.somafm.com/missioncontrol-128-mp3
-2024-08-28 22:52:52.600261 OK: SomaFM - n5MD Radio - https://ice6.somafm.com/n5md-128-mp3
-2024-08-28 22:53:04.601881 OK: SomaFM - Secret Agent - https://ice4.somafm.com/secretagent-128-mp3
-2024-08-28 22:53:16.603507 OK: SomaFM - Seven Inch Soul - https://ice6.somafm.com/7soul-128-mp3
-2024-08-28 22:53:28.605140 OK: SomaFM - SF 10-33 - https://ice6.somafm.com/sf1033-128-mp3
-2024-08-28 22:53:40.606666 OK: SomaFM - Space Station Soma - https://ice4.somafm.com/spacestation-128-mp3
-2024-08-28 22:53:52.609300 OK: SomaFM - The Dark Zone - https://ice6.somafm.com/darkzone-256-mp3
-2024-08-28 22:54:04.610831 OK: SomaFM - Vaporwaves - https://ice6.somafm.com/vaporwaves-128-mp3
-2024-08-28 22:54:16.612347 OK: Vintage Obscura - main - https://radio.vintageobscura.net/stream
+2024-09-04 14:41:40.186166 OK: D3EP - main - https://streams.d3ep.com:8008/192
+2024-09-04 14:41:52.331935 OK: Deep Radio - main - https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
+2024-09-04 14:42:04.341257 OK: Itch FM - main - https://streaming.radio.co/s264858a04/listen
+2024-09-04 14:42:16.351973 OK: Kane FM - main - https://stream.kanefm.com:10375/listen
+2024-09-04 14:42:28.362798 OK: KPFA - main - https://streams.kpfa.org:8443/kpfa
+2024-09-04 14:42:40.372827 OK: Lounge Radio - main - https://nl1.streamhosting.ch/lounge128.mp3
+2024-09-04 14:42:52.399336 OK: Lounge Radio - relay - https://fr1.streamhosting.ch/lounge128.mp3
+2024-09-04 14:43:04.409394 OK: Making Waves Radio - main - https://stream-175.zeno.fm/5dgevfbqyhhvv
+2024-09-04 14:43:16.419137 OK: MasterMixer@Work - main - https://stream.jammfmradio.com/proxy/mmw320.php
+2024-09-04 14:43:28.428179 OK: Minimal Mix Radio - main - http://148.251.43.231:8750/media
+2024-09-04 14:43:40.438726 OK: NTS - NTS 1 - https://stream-relay-geo.ntslive.net/stream
+2024-09-04 14:43:52.450178 OK: NTS - NTS 2 - https://stream-relay-geo.ntslive.net/stream2
+2024-09-04 14:44:04.458269 OK: Proton Radio - main - http://shoutcast.protonradio.com:7000/stream
+2024-09-04 14:44:16.468018 OK: Public Domain Radio - Classical - http://relay.publicdomainradio.org:80/classical.mp3
+2024-09-04 14:44:28.477380 OK: Public Domain Radio - Jazz - http://relay.publicdomainradio.org:80/jazz_swing.mp3
+2024-09-04 14:44:40.485331 OK: Radio PARALAX - Broadband - http://radio-paralax.de:8000/stream
+2024-09-04 14:44:52.495080 OK: Radio PARALAX - Mobile - http://radio-paralax.de:8000/stream/2/
+2024-09-04 14:45:04.505269 OK: SomaFM - Beat Blender - https://ice4.somafm.com/beatblender-128-mp3
+2024-09-04 14:45:16.514705 OK: SomaFM - Deep Space One - https://ice4.somafm.com/deepspaceone-128-mp3
+2024-09-04 14:45:28.526411 OK: SomaFM - Drone Zone - https://ice4.somafm.com/dronezone-256-mp3
+2024-09-04 14:45:40.547540 OK: SomaFM - Groove Salad Classic - https://ice4.somafm.com/gsclassic-128-mp3
+2024-09-04 14:45:52.557847 OK: SomaFM - Groove Salad - https://ice6.somafm.com/groovesalad-256-mp3
+2024-09-04 14:46:04.570413 OK: SomaFM - Left Coast 70s - https://ice4.somafm.com/seventies-320-mp3
+2024-09-04 14:46:16.581372 OK: SomaFM - Mission Control - https://ice6.somafm.com/missioncontrol-128-mp3
+2024-09-04 14:46:28.591910 OK: SomaFM - n5MD Radio - https://ice6.somafm.com/n5md-128-mp3
+2024-09-04 14:46:40.602114 OK: SomaFM - Secret Agent - https://ice4.somafm.com/secretagent-128-mp3
+2024-09-04 14:46:52.613170 OK: SomaFM - Seven Inch Soul - https://ice6.somafm.com/7soul-128-mp3
+2024-09-04 14:47:04.633197 OK: SomaFM - SF 10-33 - https://ice6.somafm.com/sf1033-128-mp3
+2024-09-04 14:47:16.643371 OK: SomaFM - Space Station Soma - https://ice4.somafm.com/spacestation-128-mp3
+2024-09-04 14:47:28.654034 OK: SomaFM - The Dark Zone - https://ice6.somafm.com/darkzone-256-mp3
+2024-09-04 14:47:40.664398 OK: SomaFM - Vaporwaves - https://ice6.somafm.com/vaporwaves-128-mp3
+2024-09-04 14:47:52.666362 BOO: Vintage Obscura - main - https://radio.vintageobscura.net/stream
