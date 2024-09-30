@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,D3EP : main
-https://streams.d3ep.com:8008/192
+https://cast.d3ep.com:8008/192
 #EXTINF:0,Deep Radio : main
-https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac
+https://22663.live.streamtheworld.com/DEEP_RADIOAAC.aac
 #EXTINF:0,Itch FM : main
 https://streaming.radio.co/s264858a04/listen
 #EXTINF:0,Kane FM : main

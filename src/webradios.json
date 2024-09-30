@@ -5,7 +5,7 @@
         "channel": [
             {
                 "name": "main",
-                "url": "https://streams.d3ep.com:8008/192"
+                "url": "https://cast.d3ep.com:8008/192"
             }
         ]
     },
@@ -15,7 +15,7 @@
         "channel": [
             {
                 "name": "main",
-                "url": "https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac"
+                "url": "https://22663.live.streamtheworld.com/DEEP_RADIOAAC.aac"
             }
         ]
     },
