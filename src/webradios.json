@@ -20,6 +20,16 @@
         ]
     },
     {
+        "name": "Extra FM",
+        "url": "https://extrafm.uk",
+        "channel": [
+            {
+                "name": "main",
+                "url": "https://extrafmradio.co.uk/listen/extrafm/radio.mp3"
+            }
+        ]
+    },
+    {
         "name": "Itch FM",
         "url": "https://itch.fm",
         "channel": [
