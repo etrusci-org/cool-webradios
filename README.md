@@ -1,8 +1,6 @@
 # Cool Webradios
 
-**!** THE WEBRADIO LIST WAS MIGRATED TO THE POLYDATAVAULT: <https://pdv.ourspace.ch>  
-**!** YOU CAN ACCESS THE CURRENT UP-TO-DATE PLAYLIST FILE HERE: <https://pdv.ourspace.ch/webradios.m3u>  
-**!** THIS REPOSITORY WILL BE SOON ARCHIVED.
+**!!! ARCHIVED PROJECT. CONTENTS MIGRATED TO THE POLYDATAVAULT**: <https://pdv.ourspace.ch>
 
 ---
 
